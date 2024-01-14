@@ -30,6 +30,6 @@ public class Contador
         }
         int contagem = num2 - num1;
 
-        System.out.println("A subtração é " + contagem);
+        System.out.println("A subtração eh " + contagem);
     }
 }
